@@ -33,6 +33,7 @@ The dataset includes indicators such as:
 - Cluster 3: Underdeveloped regions
 
 ## ⚙️ How to run
+1. Install Python (3.x)
+2. Install required libraries:
 ```bash
-pip install -r requirements.txt
-jupyter notebook
+pip install pandas numpy matplotlib seaborn scikit-learn jupyter
