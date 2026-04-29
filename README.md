@@ -27,7 +27,7 @@ The dataset includes indicators such as:
 5. Evaluation using silhouette score  
 
 ## 📈 Results
-- Identified X clusters of countries
+- Identified 5 clusters of countries
 - Cluster 1: High income, low mortality
 - Cluster 2: Developing economies
 - Cluster 3: Underdeveloped regions
